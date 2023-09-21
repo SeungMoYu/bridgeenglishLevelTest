@@ -10,7 +10,6 @@ def test1():#■■■■■■■■■ Test1■■■■■■■■■■
     print("Test1은 직접 매기는게 빨라요!")
     end = input("종료하시려면 enter를 눌러주세요 :)")
 
-#def = define. 함수 정의 명령어입니다
 
 def test2():#■■■■■■■■■ Test2■■■■■■■■■■
     print("테스트2 채점 프로그램")
